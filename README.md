@@ -1,4 +1,4 @@
-editable-table
+editable-table (Rinataur's fork)
 =================
 
 This tiny (3KB, < 120 lines) jQuery plugin turns any table into an editable spreadsheet. Here are the key features:
